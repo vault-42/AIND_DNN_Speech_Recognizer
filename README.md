@@ -10,6 +10,8 @@ To understand this project it is recommended to start by looking at the followin
  
  `sample_models.py` - This file contains the implementation details of the models called in the `vui_notebook,ipynb` script
 
+This project requires Python 3.6 to run. The `requirements.txt` file contains the additional Python packages needed to run this project.
+
 To run the project open and execute the Jupyter Notebook. In the terminal execute:
 
 `jupyter notebook vui_notebook.ipynb`
