@@ -10,10 +10,11 @@ To understand this project it is recommended to start by looking at the followin
  
  `sample_models.py` - This file contains the implementation details of the models called in the `vui_notebook,ipynb` script
 
-## Requirements
-This project requires Python 3.6 to run. The `requirements.txt` file contains the additional Python packages needed to run this project.
+## Hardware Requirements
+This project is designed to be run on a Computer containing a Nvidia GPU (GTX 1060 or better) compatible with Tensorflow. Running this project only on a CPU will likely take a prohibitively long time.
 
-This project is designed to be run on a Computer containing a Nvidia GPU compatible with Tensorflow. Running this project only on a CPU will likely take a prohibitively long time.
+## Software Requirements
+This project requires Python 3.6 to run. The `requirements.txt` file contains the additional Python packages needed to run this project.
 
 ## Usage
 To run the project open and execute the Jupyter Notebook. In the terminal execute:
